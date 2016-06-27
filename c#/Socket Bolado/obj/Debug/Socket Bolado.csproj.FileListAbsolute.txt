@@ -1,0 +1,6 @@
+c:\users\engenharia.03\documents\visual studio 2015\Projects\Socket Bolado\Socket Bolado\bin\Debug\Socket Bolado.exe.config
+c:\users\engenharia.03\documents\visual studio 2015\Projects\Socket Bolado\Socket Bolado\bin\Debug\Socket Bolado.exe
+c:\users\engenharia.03\documents\visual studio 2015\Projects\Socket Bolado\Socket Bolado\bin\Debug\Socket Bolado.pdb
+c:\users\engenharia.03\documents\visual studio 2015\Projects\Socket Bolado\Socket Bolado\obj\Debug\Socket Bolado.exe
+c:\users\engenharia.03\documents\visual studio 2015\Projects\Socket Bolado\Socket Bolado\obj\Debug\Socket Bolado.pdb
+c:\users\engenharia.03\documents\visual studio 2015\Projects\Socket Bolado\Socket Bolado\obj\Debug\Socket Bolado.csprojResolveAssemblyReference.cache
